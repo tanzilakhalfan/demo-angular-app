@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: angular
-        image: __acr_name__.azurecr.io/webapp:__tag__
+        image: 
         # image: aksclusteracr.azurecr.io/webapp:1.0.2
         # image: houssemdocker/webapp:111
         # image: ACR_NAME/DOCKER_IMAGE:TAG
